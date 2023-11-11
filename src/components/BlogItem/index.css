@@ -1,0 +1,31 @@
+/* Write your CSS code here */
+.main-blog-item-container {
+  list-style-type: none;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.main-heading {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.main-date {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+  font-weight: normal;
+  font-size: 15px;
+}
+
+.main-para {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+  font-weight: normal;
+  font-size: 15px;
+}
